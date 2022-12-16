@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=9A1BFF&width=435&lines=Desperado+RP+Community+Director;Desperado+RP+Lead+Developer;Asmos+Studios+System+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=9A1BFF&width=435&lines=Desperado+RP+Community+Director;Desperado+RP+Lead+Developer;Former+Asmos+Studios+System+Administrator;Human)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap3x99&label=Profile%20views&color=0e75b6&style=plastic" alt="ap3x99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap3x99" alt="ap3x99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap3x99&theme=onestar" alt="ap3x99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ap3xcommander" target="blank"><img src="https://img.shields.io/twitter/follow/ap3xcommander?logo=twitter&style=for-the-badge" alt="ap3xcommander" /></a> </p>
 
