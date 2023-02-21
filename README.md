@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Desperado Roleplay](https://discord.gg/desperadorp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ap3x99](https://github.com/Ap3x99)
+- 👨‍💻 All of my new RedM projects are available on my org [JimboScripts](https://github.com/orgs/JimboScripts/repositories)
 
 - 📫 Reach out to me on Discord! **Ap3x_#7582**
 
