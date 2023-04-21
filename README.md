@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=9A1BFF&width=435&lines=Desperado+RP+Community+Director;Desperado+RP+Lead+Developer;Former+Asmos+Studios+System+Administrator;Human)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=FF4404&width=435&lines=MLO+Developer+%7C+FiveM;EUP+Developer+%7C+FiveM;Script+Developer+%7C+FiveM;Map+Developer+%7C+RedM;Script+Developer+%7C+RedM)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap3x99&label=Profile%20views&color=0e75b6&style=plastic" alt="ap3x99" /> </p>
 
@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ap3xcommander" target="blank"><img src="https://img.shields.io/twitter/follow/ap3xcommander?logo=twitter&style=for-the-badge" alt="ap3xcommander" /></a> </p>
 
-- 🔭 I’m currently working on [Desperado Roleplay](https://discord.gg/desperadorp)
+- 🔭 I’m currently working on ✨NOTHING✨
 
-- 👨‍💻 All of my new RedM projects are available on my org [JimboScripts](https://github.com/orgs/JimboScripts/repositories)
+- 👨‍💻 All of my public RedM resources are available on my org [JimboScripts](https://github.com/orgs/JimboScripts/repositories)
 
-- 📫 Reach out to me on Discord! **Ap3x_#7582**
+- 📫 Reach out to me on Discord! **JimboTheDev#7582**
 
 - ⚡ Fun fact about me **I got my start in programming through making Discord bots using Discord.js**
 
