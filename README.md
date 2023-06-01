@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ap3xcommander" target="blank"><img src="https://img.shields.io/twitter/follow/ap3xcommander?logo=twitter&style=for-the-badge" alt="ap3xcommander" /></a> </p>
 
-- 🔭 I’m currently working on ✨NOTHING✨
+- 🔭 I’m currently working on PMRoleplay
 
-- 👨‍💻 All of my public RedM resources are available on my org [JimboScripts](https://github.com/orgs/JimboScripts/repositories)
+- 👨‍💻 All of my public FiveM resources are available on my org [JimboScripts - FiveM](https://github.com/orgs/JimboScripts-FiveM/repositories)
+
+- 👨‍💻 All of my public RedM resources are available on my org [JimboScripts - RedM](https://github.com/orgs/JimboScripts/repositories)
 
 - 📫 Reach out to me on Discord! **JimboTheDev#7582**
 
