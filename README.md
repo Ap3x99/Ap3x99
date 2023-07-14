@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=FF4404&width=435&lines=MLO+Developer+%7C+FiveM;EUP+Developer+%7C+FiveM;Script+Developer+%7C+FiveM;Map+Developer+%7C+RedM;Script+Developer+%7C+RedM)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ap3x99&label=Profile%20views&color=0e75b6&style=plastic" alt="ap3x99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ap3x99&label=Profile%20views&color=0e75b6&style=plastic" alt="ap3x99" /> <img alt="Jimbo's stars" src="https://img.shields.io/github/stars/Ap3x99?label=Stars%20Received&style=plastic"> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap3x99&theme=onestar" alt="ap3x99" /></a> </p>
 
