@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap3x99&theme=onestar" alt="ap3x99" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ap3xcommander" target="blank"><img src="https://img.shields.io/twitter/follow/ap3xcommander?logo=twitter&style=for-the-badge" alt="ap3xcommander" /></a> </p>
-
-- 🔭 I’m currently working on PMRP (FiveM) and The Shadow (UE5)
+- 🔭 I’m currently working on Echo Valley (RedM) and other various non-programming related projects
 
 - 👨‍💻 All of my public FiveM resources are available on my org [JimboScripts - FiveM](https://github.com/orgs/JimboScripts-FiveM/repositories)
 
