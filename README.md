@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=FF4404&width=435&lines=MLO+Developer+%7C+FiveM;EUP+Developer+%7C+FiveM;Script+Developer+%7C+FiveM;Map+Developer+%7C+RedM;Script+Developer+%7C+RedM)](https://git.io/typing-svg)
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&random=false&width=435&lines=Script+Developer;Map+Developer+(XML%2FMLO);A+Chill+Guy)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap3x99&label=Profile%20views&color=0e75b6&style=plastic" alt="ap3x99" /> <img alt="Jimbo's stars" src="https://img.shields.io/github/stars/Ap3x99?label=Stars%20Received&style=plastic"> </p>
 
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap3x99&show_icons=true&theme=dark&locale=en" alt="ap3x99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ap3x99&theme=dark" alt="ap3x99" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ap3x99&theme=dark)](https://git.io/streak-stats)
