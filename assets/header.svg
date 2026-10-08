@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B1D14"/>
+      <stop offset="0.55" stop-color="#7A3E1D"/>
+      <stop offset="1" stop-color="#C8553D"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 64px Rockwell, 'Rockwell Extra Bold', Georgia, serif; fill: #F4E4C1; letter-spacing: 2px; }
+      .desc  { font: 400 19px Georgia, 'Times New Roman', serif; fill: #F4E4C1; opacity: .85; letter-spacing: 3px; }
+      .fade  { opacity: 0; animation: fade 1.4s ease-out .2s forwards; }
+      .fade2 { opacity: 0; animation: fade 1.4s ease-out .7s forwards; }
+      @keyframes fade { to { opacity: 1; } }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1100 200 1000 150 900 160C780 172 700 210 580 200C450 190 380 150 260 158C160 165 80 195 0 185Z"/>
+  <path fill="url(#g)" opacity=".35" d="M0 0H1200V185C1080 210 980 170 860 178C740 186 660 214 540 210C420 206 340 172 220 176C120 180 60 205 0 200Z"/>
+  <g class="fade">
+    <text class="title" x="600" y="92" text-anchor="middle">JimboTheDev</text>
+  </g>
+  <g class="fade2">
+    <text class="desc" x="600" y="132" text-anchor="middle">RedM  •  FiveM  •  Lua  •  Props &amp; MLOs</text>
+  </g>
+</svg>
