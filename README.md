@@ -23,7 +23,7 @@
 local Jimbo = {
     alias      = "JimboTheDev",
     rides_for  = "Wisteria Ridge (RedM)",
-    frameworks = { "VORP", "FiveM" },
+    frameworks = { "VORP" },
     crafts     = { "scripts", "custom props", "MLOs" },
     origin     = "Discord bots in Discord.js",
     status     = "always shipping something",
